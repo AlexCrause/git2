@@ -1,2 +1,4 @@
 Logs/*.log
 !Logs/special.log
+
+errors.log
